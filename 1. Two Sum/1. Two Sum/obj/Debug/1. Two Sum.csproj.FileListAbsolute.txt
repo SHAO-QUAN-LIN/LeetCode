@@ -1,0 +1,15 @@
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\_1.Two_Sum.exe.config
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\_1.Two_Sum.exe
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\_1.Two_Sum.pdb
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\1. Two Sum.csprojAssemblyReference.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\MainWindow.g.cs
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\App.g.cs
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\_1.Two_Sum_MarkupCompile.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\_1.Two_Sum_MarkupCompile.lref
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\MainWindow.baml
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\_1.Two_Sum.g.resources
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\_1.Two_Sum.Properties.Resources.resources
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\1. Two Sum.csproj.GenerateResource.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\1. Two Sum.csproj.CoreCompileInputs.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\_1.Two_Sum.exe
+D:\2537\Code\Visual Studio 2017\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\_1.Two_Sum.pdb
