@@ -1,0 +1,30 @@
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csprojAssemblyReference.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\MainWindow.g.cs
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\App.g.cs
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer_MarkupCompile.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer_MarkupCompile.lref
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\bin\Debug\Roman to Integer.exe.config
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\bin\Debug\Roman to Integer.exe
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\bin\Debug\Roman to Integer.pdb
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\MainWindow.baml
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.g.resources
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\Roman_to_Integer.Properties.Resources.resources
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csproj.GenerateResource.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csproj.CoreCompileInputs.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.exe
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.pdb
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\bin\Debug\Roman to Integer.exe.config
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\bin\Debug\Roman to Integer.exe
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\bin\Debug\Roman to Integer.pdb
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csprojAssemblyReference.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\MainWindow.g.cs
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\App.g.cs
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer_MarkupCompile.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer_MarkupCompile.lref
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\MainWindow.baml
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.g.resources
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\Roman_to_Integer.Properties.Resources.resources
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csproj.GenerateResource.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csproj.CoreCompileInputs.cache
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.exe
+D:\2537\Code\Visual Studio 2017\LeetCode\Esay\13. Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.pdb
