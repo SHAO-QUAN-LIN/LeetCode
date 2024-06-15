@@ -1,1 +1,1 @@
-This is LeetCode problems by esay rank.
+This is LeetCode problems by easy rank.
