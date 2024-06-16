@@ -1,0 +1,30 @@
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.exe.config
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.exe
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.pdb
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.AssemblyReference.cache
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\MainWindow.g.cs
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\App.g.cs
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses_MarkupCompile.cache
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses_MarkupCompile.lref
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\MainWindow.baml
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.g.resources
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\Valid_Parentheses.Properties.Resources.resources
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.GenerateResource.cache
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.CoreCompileInputs.cache
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.exe
+D:\Code\C#\LeetCode\Easy\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.pdb
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.exe.config
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.exe
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.pdb
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.AssemblyReference.cache
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\MainWindow.g.cs
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\App.g.cs
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses_MarkupCompile.cache
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses_MarkupCompile.lref
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\MainWindow.baml
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.g.resources
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\Valid_Parentheses.Properties.Resources.resources
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.GenerateResource.cache
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.CoreCompileInputs.cache
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.exe
+D:\Code\C#\LeetCode\Easy\20. Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.pdb
