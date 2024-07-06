@@ -1,0 +1,30 @@
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.csproj.AssemblyReference.cache
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\MainWindow.g.cs
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\App.g.cs
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number_MarkupCompile.cache
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number_MarkupCompile.lref
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\bin\Debug\N_th_Tribonacci_Number.exe.config
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\bin\Debug\N_th_Tribonacci_Number.exe
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\bin\Debug\N_th_Tribonacci_Number.pdb
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\MainWindow.baml
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.g.resources
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.Properties.Resources.resources
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.csproj.GenerateResource.cache
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.csproj.CoreCompileInputs.cache
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.exe
+D:\Code\C#\LeetCode\Easy\N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.pdb
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\bin\Debug\N_th_Tribonacci_Number.exe.config
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\bin\Debug\N_th_Tribonacci_Number.exe
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\bin\Debug\N_th_Tribonacci_Number.pdb
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.csproj.AssemblyReference.cache
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\MainWindow.g.cs
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\App.g.cs
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number_MarkupCompile.cache
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number_MarkupCompile.lref
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\MainWindow.baml
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.g.resources
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.Properties.Resources.resources
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.csproj.GenerateResource.cache
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.csproj.CoreCompileInputs.cache
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.exe
+D:\Code\C#\LeetCode\Easy\1137. N_th_Tribonacci_Number\N_th_Tribonacci_Number\obj\Debug\N_th_Tribonacci_Number.pdb
